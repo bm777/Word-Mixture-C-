@@ -2,6 +2,7 @@
 
 
 Using only string to mix the letter in word.
+This using CODE::Blocks IDE 16.01
  
 
 # Result in XTERMinal on ubuntu 18.04
